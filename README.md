@@ -5,7 +5,7 @@ Perkenalkan Nama Saya *Arbiana Fendy Nugraha*
 - 🌱 I’m currently learning in Universitas Mercu Buana Yogyakarta
 
 <p align="left">
-<a href="">
+<a href="https://github.com/Fennugrh">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fennugrh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fennugrh&layout=compact&langs_count=8&theme=algolia"/>
 </a>
