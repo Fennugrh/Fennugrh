@@ -2,7 +2,7 @@
 
 Perkenalkan Nama Saya *Arbiana Fendy Nugraha*  
 
-- 🌱 I’m currently learning in Universitas Mercu Buana Yogyakarta
+- 🌱 I’m currently learning in Universitas Mercu Buana Yogyakarta.
 
 <p align="left">
 <a href="https://github.com/Fennugrh">
